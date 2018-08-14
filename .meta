@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "kpi_api_contracts": "git@github.com:process-engine/kpi_api_contracts.git",
+    "kpi_api_core": "git@github.com:process-engine/kpi_api_core.git",
+    "kpi_api_http": "git@github.com:process-engine/kpi_api_http.git"
+  }
+}

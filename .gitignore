@@ -4,9 +4,9 @@ node_modules
 package-lock.json
 processengine.sqlite
 
-metrics_api_contracts
-metrics_api_http
-metrics_api_core
+kpi_api_contracts
+kpi_api_http
+kpi_api_core
 
 # OSX-finder info-files
 *.DS_Store
